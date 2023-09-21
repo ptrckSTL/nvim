@@ -1,2 +1,2 @@
 -- set termguicolors to enable highlight groups
-vim.o.termguicolors = true
+vim.opt.termguicolors = true
