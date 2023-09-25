@@ -3,3 +3,4 @@ require("config.lazy")
 
 -- Set the Neovim color scheme
 vim.cmd("colorscheme no-clown-fiesta")
+vim.opt.autowriteall = true
